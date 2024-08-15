@@ -969,3 +969,25 @@
 2024-08-11 20:06:46 info: Current installed embold extension version : 0.1.8
 2024-08-11 20:06:46 info: Latest embold extension version on marketplace : 0.1.6
 2024-08-11 20:06:59 info: Row(s) deleted
+2024-08-15 13:30:04 info: Congratulations, your extension "Embold" is now active!
+2024-08-15 13:30:04 info: tempDirectory : c:\Users\Дмитрий\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-08-15 13:30:12 info: Row(s) deleted
+2024-08-15 13:30:27 info: Extraction complete for source: c:\Users\Дмитрий\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\Дмитрий\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-08-15 13:30:27 info: Extension installed on machine OS : win32
+2024-08-15 13:30:27 info: Fetched the issues from DB
+2024-08-15 13:30:27 error: ERROR checking java version : Error: Command failed: java -version
+"java" �� ���� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� ������ 䠩���.
+
+2024-08-15 13:30:27 info: Java version installed on machine : 
+"java" �� ���� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� ������ 䠩���.
+
+2024-08-15 13:30:27 info: Java installed on machine.
+2024-08-15 13:30:27 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-08-15 13:30:27 info: Current installed embold extension version : 0.1.8
+2024-08-15 13:30:27 info: Latest embold extension version on marketplace : 0.1.6
+2024-08-15 13:39:00 info: Row(s) deleted
+2024-08-15 13:39:27 info: Row(s) deleted
+2024-08-15 13:39:46 info: Row(s) deleted
+2024-08-15 13:39:46 info: Row(s) deleted
